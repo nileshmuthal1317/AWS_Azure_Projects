@@ -108,3 +108,15 @@ AWS services are categorized into compute, storage, network, and database.
 
 - **AWS Managed Databases:** Fully managed database services like Amazon RDS (relational), Amazon DynamoDB (NoSQL).
 
+- **Amazon RDS (Relational Database Service):** Managed relational database service that automates administrative tasks like patching, backups, and scaling.
+
+  *Example:* A company uses Amazon RDS to host its MySQL database for an e-commerce application.
+
+- **Amazon DynamoDB:** Fully managed NoSQL database service that provides fast and predictable performance.
+
+  *Example:* A gaming company uses Amazon DynamoDB to store user profiles and game progress for its multiplayer online game.
+
+- **Amazon Redshift:** Fully managed data warehousing service that provides high-performance analysis of large datasets.
+
+  *Example:* A retail company analyzes sales data using Amazon Redshift to make informed decisions about inventory management.
+
