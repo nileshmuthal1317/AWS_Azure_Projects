@@ -1,3 +1,3 @@
-# AWS_Projects
+# AWS_Azure_Projects
 **This Repository is Under Developement**<br>
-Repository included the project related to AWS Services.
+Repository included the project related to AWS and Azure Services.
